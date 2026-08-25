@@ -1,0 +1,33 @@
+PRIVACY POLICY 
+
+Sky Power Aviation Solutions LLC ("Company", "we", "us", or "our") operates the aircraft weight and balance reporting application (the "Application"). We are committed to protecting your privacy. This Privacy Policy explains how data is handled when you download, install, and use our Application. 
+
+1. NO PERSONAL DATA COLLECTION
+We respect your privacy and believe that your data belongs to you.
+
+* No Personal Information: The Application does not require you to create an account, log in, or provide personal information (such as your name, email address, phone number, or physical address) to use its calculation functions.
+* No Data Harvesting: We do not track, collect, upload, or store any personal data or personally identifiable information (PII) from your device.
+
+1. AIRCRAFT AND FLIGHT DATA STORAGE
+The Application allows you to input specific aircraft parameters, load values, and weights to generate weight and balance reports.
+
+* Local Storage Only: All information entered into the Application—including aircraft tail numbers, configuration weights, arm lengths, fuel data, payload details, and calculated weight and balance reports—is stored locally and exclusively on your own Apple device.
+* No Server Uploads: This data is not uploaded to our servers, nor is it shared with any third parties. If you choose to export, print, or share a weight and balance report, that action is handled entirely by your device’s native operating system functions under your direct control.
+
+1. APPLE APP STORE AND ANALYTICS
+Because the Application is distributed through the Apple App Store, Apple may collect certain aggregated, anonymous usage data or crash reports.
+
+* Apple Analytics: If you have opted-in to share diagnostics and usage data with app developers through your iOS device settings, Apple may provide us with anonymous crash logs or aggregate usage statistics. This data does not contain any personal information, aircraft profiles, or specific flight parameters. It is used strictly to debug software errors and improve app performance.
+* In-App Purchases: All payment transactions for one-time lifetime access are processed securely by Apple. We do not receive or store your credit card information or billing details.
+
+1. DATA SECURITY
+Since your data is stored locally on your device, the security of that data relies on your device’s security features (such as your passcode, Face ID, or Touch ID). We recommend keeping your device updated and secured to protect your local data.
+2. CHILDREN'S PRIVACY
+The Application is intended for licensed pilots and aircraft operators. It does not knowingly collect or solicit data from anyone under the age of 13.
+3. CHANGES TO THIS PRIVACY POLICY
+We may update our Privacy Policy from time to time. Any changes will be reflected by posting the updated Privacy Policy text within the App Store listing or an in-app update. Your continued use of the Application after changes are posted constitutes your acceptance of the updated policy.
+4. CONTACT INFORMATION
+If you have any questions or feedback regarding this Privacy Policy, you can contact us at:
+Sky Power Aviation Solutions LLC
+[Insert Support Email Address]
+[Insert Physical Business Address or Website URL]
